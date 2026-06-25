@@ -10,6 +10,7 @@ I’m student of Computer Science, and I’ve started this repo to:
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/SoumyaSagarNayak/DSA/tree/master/1189-maximum-number-of-balloons) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/SoumyaSagarNayak/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## String
 |  |
 | ------- |
@@ -18,6 +19,7 @@ I’m student of Computer Science, and I’ve started this repo to:
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/SoumyaSagarNayak/DSA/tree/master/1189-maximum-number-of-balloons) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/SoumyaSagarNayak/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -27,8 +29,25 @@ I’m student of Computer Science, and I’ve started this repo to:
 |  |
 | ------- |
 | [3699-number-of-zigzag-arrays-i](https://github.com/SoumyaSagarNayak/DSA/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/SoumyaSagarNayak/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Math
 |  |
 | ------- |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/SoumyaSagarNayak/DSA/tree/master/3700-number-of-zigzag-arrays-ii) |
+## Array
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/SoumyaSagarNayak/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/SoumyaSagarNayak/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Segment Tree
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/SoumyaSagarNayak/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Merge Sort
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/SoumyaSagarNayak/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
