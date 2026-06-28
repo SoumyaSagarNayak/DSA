@@ -41,6 +41,7 @@ I’m student of Computer Science, and I’ve started this repo to:
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/SoumyaSagarNayak/DSA/tree/master/0287-find-the-duplicate-number) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SoumyaSagarNayak/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/SoumyaSagarNayak/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SoumyaSagarNayak/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/SoumyaSagarNayak/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -75,4 +76,12 @@ I’m student of Computer Science, and I’ve started this repo to:
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/SoumyaSagarNayak/DSA/tree/master/0287-find-the-duplicate-number) |
+## Greedy
+|  |
+| ------- |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SoumyaSagarNayak/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+## Sorting
+|  |
+| ------- |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SoumyaSagarNayak/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 <!---LeetCode Topics End-->
