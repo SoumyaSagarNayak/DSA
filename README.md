@@ -28,6 +28,7 @@ I’m student of Computer Science, and I’ve started this repo to:
 ## Dynamic Programming
 |  |
 | ------- |
+| [3620-network-recovery-pathways](https://github.com/SoumyaSagarNayak/DSA/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/SoumyaSagarNayak/DSA/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/SoumyaSagarNayak/DSA/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Prefix Sum
@@ -48,6 +49,7 @@ I’m student of Computer Science, and I’ve started this repo to:
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SoumyaSagarNayak/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SoumyaSagarNayak/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/SoumyaSagarNayak/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3620-network-recovery-pathways](https://github.com/SoumyaSagarNayak/DSA/tree/master/3620-network-recovery-pathways) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SoumyaSagarNayak/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/SoumyaSagarNayak/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Divide and Conquer
@@ -78,6 +80,7 @@ I’m student of Computer Science, and I’ve started this repo to:
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/SoumyaSagarNayak/DSA/tree/master/0287-find-the-duplicate-number) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SoumyaSagarNayak/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/SoumyaSagarNayak/DSA/tree/master/3620-network-recovery-pathways) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -106,8 +109,21 @@ I’m student of Computer Science, and I’ve started this repo to:
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SoumyaSagarNayak/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/SoumyaSagarNayak/DSA/tree/master/3620-network-recovery-pathways) |
 ## Matrix
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SoumyaSagarNayak/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Graph Theory
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/SoumyaSagarNayak/DSA/tree/master/3620-network-recovery-pathways) |
+## Topological Sort
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/SoumyaSagarNayak/DSA/tree/master/3620-network-recovery-pathways) |
+## Shortest Path
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/SoumyaSagarNayak/DSA/tree/master/3620-network-recovery-pathways) |
 <!---LeetCode Topics End-->
