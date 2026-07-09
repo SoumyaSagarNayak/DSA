@@ -45,6 +45,7 @@ I’m student of Computer Science, and I’ve started this repo to:
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/SoumyaSagarNayak/DSA/tree/master/0009-palindrome-number) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/SoumyaSagarNayak/DSA/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/SoumyaSagarNayak/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/SoumyaSagarNayak/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
