@@ -1,12 +1,20 @@
 class Solution {
 public:
     vector<int> arrayRankTransform(vector<int>& arr) {
-        vector<int> s = arr;
-        sort(s.begin(), s.end());
-        s.erase(unique(s.begin(), s.end()), s.end());
-        for (int i = 0; i < arr.size(); i++) {
-            arr[i] = lower_bound(s.begin(), s.end(), arr[i]) - s.begin() + 1;
-        }
-        return arr;
+        int n=arr.size();
+        if(n==0)return{};
+        set<int> unique(arr.begin(),arr.end());
+        unordered_map<int,int> ranks;
+        int rank=1;
+
+        for(const int &ele :unique)
+        ranks[ele]=rank++;
+
+        vector<int> ans;
+
+        for(int &ele : arr)
+        ans.push_back(ranks[ele]);
+
+        return ans;
     }
 };
