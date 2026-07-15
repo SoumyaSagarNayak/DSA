@@ -65,6 +65,7 @@ I’m student of Computer Science, and I’ve started this repo to:
 | [1331-rank-transform-of-an-array](https://github.com/SoumyaSagarNayak/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SoumyaSagarNayak/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SoumyaSagarNayak/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/SoumyaSagarNayak/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SoumyaSagarNayak/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/SoumyaSagarNayak/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SoumyaSagarNayak/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -96,6 +97,7 @@ I’m student of Computer Science, and I’ve started this repo to:
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/SoumyaSagarNayak/DSA/tree/master/0287-find-the-duplicate-number) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/SoumyaSagarNayak/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Binary Search
 |  |
 | ------- |
@@ -111,12 +113,14 @@ I’m student of Computer Science, and I’ve started this repo to:
 |  |
 | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SoumyaSagarNayak/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/SoumyaSagarNayak/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Sorting
 |  |
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/SoumyaSagarNayak/DSA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/SoumyaSagarNayak/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SoumyaSagarNayak/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/SoumyaSagarNayak/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Sliding Window
 |  |
 | ------- |
