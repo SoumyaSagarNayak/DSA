@@ -124,6 +124,7 @@ I’m student of Computer Science, and I’ve started this repo to:
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/SoumyaSagarNayak/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SoumyaSagarNayak/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/SoumyaSagarNayak/DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SoumyaSagarNayak/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -162,6 +163,7 @@ I’m student of Computer Science, and I’ve started this repo to:
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/SoumyaSagarNayak/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SoumyaSagarNayak/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/SoumyaSagarNayak/DSA/tree/master/2685-count-the-number-of-complete-components) |
 ## Number Theory
@@ -170,4 +172,12 @@ I’m student of Computer Science, and I’ve started this repo to:
 | [0204-count-primes](https://github.com/SoumyaSagarNayak/DSA/tree/master/0204-count-primes) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SoumyaSagarNayak/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/SoumyaSagarNayak/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/SoumyaSagarNayak/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/SoumyaSagarNayak/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
