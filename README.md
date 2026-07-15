@@ -20,6 +20,7 @@ I’m student of Computer Science, and I’ve started this repo to:
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/SoumyaSagarNayak/DSA/tree/master/0067-add-binary) |
 | [1189-maximum-number-of-balloons](https://github.com/SoumyaSagarNayak/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SoumyaSagarNayak/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SoumyaSagarNayak/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -49,6 +50,7 @@ I’m student of Computer Science, and I’ve started this repo to:
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/SoumyaSagarNayak/DSA/tree/master/0009-palindrome-number) |
+| [0067-add-binary](https://github.com/SoumyaSagarNayak/DSA/tree/master/0067-add-binary) |
 | [0204-count-primes](https://github.com/SoumyaSagarNayak/DSA/tree/master/0204-count-primes) |
 | [0509-fibonacci-number](https://github.com/SoumyaSagarNayak/DSA/tree/master/0509-fibonacci-number) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SoumyaSagarNayak/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -110,6 +112,7 @@ I’m student of Computer Science, and I’ve started this repo to:
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/SoumyaSagarNayak/DSA/tree/master/0067-add-binary) |
 | [0287-find-the-duplicate-number](https://github.com/SoumyaSagarNayak/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Greedy
 |  |
@@ -194,4 +197,8 @@ I’m student of Computer Science, and I’ve started this repo to:
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/SoumyaSagarNayak/DSA/tree/master/0509-fibonacci-number) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/SoumyaSagarNayak/DSA/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
