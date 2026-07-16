@@ -37,6 +37,7 @@ I’m student of Computer Science, and I’ve started this repo to:
 | [0152-maximum-product-subarray](https://github.com/SoumyaSagarNayak/DSA/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/SoumyaSagarNayak/DSA/tree/master/0509-fibonacci-number) |
 | [1301-number-of-paths-with-max-score](https://github.com/SoumyaSagarNayak/DSA/tree/master/1301-number-of-paths-with-max-score) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/SoumyaSagarNayak/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SoumyaSagarNayak/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3620-network-recovery-pathways](https://github.com/SoumyaSagarNayak/DSA/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/SoumyaSagarNayak/DSA/tree/master/3699-number-of-zigzag-arrays-i) |
@@ -72,6 +73,7 @@ I’m student of Computer Science, and I’ve started this repo to:
 | [1288-remove-covered-intervals](https://github.com/SoumyaSagarNayak/DSA/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/SoumyaSagarNayak/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/SoumyaSagarNayak/DSA/tree/master/1331-rank-transform-of-an-array) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/SoumyaSagarNayak/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SoumyaSagarNayak/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SoumyaSagarNayak/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/SoumyaSagarNayak/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
