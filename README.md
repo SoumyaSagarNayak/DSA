@@ -74,6 +74,7 @@ I’m student of Computer Science, and I’ve started this repo to:
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SoumyaSagarNayak/DSA/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/SoumyaSagarNayak/DSA/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/SoumyaSagarNayak/DSA/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/SoumyaSagarNayak/DSA/tree/master/0152-maximum-product-subarray) |
 | [0204-count-primes](https://github.com/SoumyaSagarNayak/DSA/tree/master/0204-count-primes) |
@@ -121,6 +122,7 @@ I’m student of Computer Science, and I’ve started this repo to:
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/SoumyaSagarNayak/DSA/tree/master/0027-remove-element) |
 | [0287-find-the-duplicate-number](https://github.com/SoumyaSagarNayak/DSA/tree/master/0287-find-the-duplicate-number) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/SoumyaSagarNayak/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SoumyaSagarNayak/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
