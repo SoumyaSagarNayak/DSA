@@ -25,6 +25,7 @@ I’m student of Computer Science, and I’ve started this repo to:
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/SoumyaSagarNayak/DSA/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/SoumyaSagarNayak/DSA/tree/master/0125-valid-palindrome) |
 | [1189-maximum-number-of-balloons](https://github.com/SoumyaSagarNayak/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SoumyaSagarNayak/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SoumyaSagarNayak/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -131,6 +132,7 @@ I’m student of Computer Science, and I’ve started this repo to:
 | ------- |
 | [0027-remove-element](https://github.com/SoumyaSagarNayak/DSA/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/SoumyaSagarNayak/DSA/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/SoumyaSagarNayak/DSA/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/SoumyaSagarNayak/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/SoumyaSagarNayak/DSA/tree/master/0287-find-the-duplicate-number) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/SoumyaSagarNayak/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
