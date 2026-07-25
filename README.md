@@ -10,6 +10,7 @@ I’m student of Computer Science, and I’ve started this repo to:
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SoumyaSagarNayak/DSA/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/SoumyaSagarNayak/DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/SoumyaSagarNayak/DSA/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SoumyaSagarNayak/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0525-contiguous-array](https://github.com/SoumyaSagarNayak/DSA/tree/master/0525-contiguous-array) |
@@ -34,6 +35,7 @@ I’m student of Computer Science, and I’ve started this repo to:
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/SoumyaSagarNayak/DSA/tree/master/0169-majority-element) |
 | [1189-maximum-number-of-balloons](https://github.com/SoumyaSagarNayak/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SoumyaSagarNayak/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SoumyaSagarNayak/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -82,6 +84,7 @@ I’m student of Computer Science, and I’ve started this repo to:
 | [0053-maximum-subarray](https://github.com/SoumyaSagarNayak/DSA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/SoumyaSagarNayak/DSA/tree/master/0075-sort-colors) |
 | [0152-maximum-product-subarray](https://github.com/SoumyaSagarNayak/DSA/tree/master/0152-maximum-product-subarray) |
+| [0169-majority-element](https://github.com/SoumyaSagarNayak/DSA/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/SoumyaSagarNayak/DSA/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/SoumyaSagarNayak/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/SoumyaSagarNayak/DSA/tree/master/0283-move-zeroes) |
@@ -109,6 +112,7 @@ I’m student of Computer Science, and I’ve started this repo to:
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/SoumyaSagarNayak/DSA/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/SoumyaSagarNayak/DSA/tree/master/0169-majority-element) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SoumyaSagarNayak/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/SoumyaSagarNayak/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
@@ -161,6 +165,7 @@ I’m student of Computer Science, and I’ve started this repo to:
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/SoumyaSagarNayak/DSA/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/SoumyaSagarNayak/DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/SoumyaSagarNayak/DSA/tree/master/0268-missing-number) |
 | [1288-remove-covered-intervals](https://github.com/SoumyaSagarNayak/DSA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/SoumyaSagarNayak/DSA/tree/master/1331-rank-transform-of-an-array) |
