@@ -82,6 +82,7 @@ I’m student of Computer Science, and I’ve started this repo to:
 | [0001-two-sum](https://github.com/SoumyaSagarNayak/DSA/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/SoumyaSagarNayak/DSA/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/SoumyaSagarNayak/DSA/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/SoumyaSagarNayak/DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/SoumyaSagarNayak/DSA/tree/master/0075-sort-colors) |
 | [0152-maximum-product-subarray](https://github.com/SoumyaSagarNayak/DSA/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/SoumyaSagarNayak/DSA/tree/master/0169-majority-element) |
@@ -165,6 +166,7 @@ I’m student of Computer Science, and I’ve started this repo to:
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/SoumyaSagarNayak/DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/SoumyaSagarNayak/DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/SoumyaSagarNayak/DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/SoumyaSagarNayak/DSA/tree/master/0268-missing-number) |
