@@ -89,6 +89,7 @@ I’m student of Computer Science, and I’ve started this repo to:
 | [0268-missing-number](https://github.com/SoumyaSagarNayak/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/SoumyaSagarNayak/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/SoumyaSagarNayak/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0414-third-maximum-number](https://github.com/SoumyaSagarNayak/DSA/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SoumyaSagarNayak/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0525-contiguous-array](https://github.com/SoumyaSagarNayak/DSA/tree/master/0525-contiguous-array) |
 | [1288-remove-covered-intervals](https://github.com/SoumyaSagarNayak/DSA/tree/master/1288-remove-covered-intervals) |
@@ -167,6 +168,7 @@ I’m student of Computer Science, and I’ve started this repo to:
 | [0075-sort-colors](https://github.com/SoumyaSagarNayak/DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/SoumyaSagarNayak/DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/SoumyaSagarNayak/DSA/tree/master/0268-missing-number) |
+| [0414-third-maximum-number](https://github.com/SoumyaSagarNayak/DSA/tree/master/0414-third-maximum-number) |
 | [1288-remove-covered-intervals](https://github.com/SoumyaSagarNayak/DSA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/SoumyaSagarNayak/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SoumyaSagarNayak/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
