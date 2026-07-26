@@ -56,6 +56,7 @@ I’m student of Computer Science, and I’ve started this repo to:
 |  |
 | ------- |
 | [0525-contiguous-array](https://github.com/SoumyaSagarNayak/DSA/tree/master/0525-contiguous-array) |
+| [1480-running-sum-of-1d-array](https://github.com/SoumyaSagarNayak/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SoumyaSagarNayak/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/SoumyaSagarNayak/DSA/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SoumyaSagarNayak/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -102,6 +103,7 @@ I’m student of Computer Science, and I’ve started this repo to:
 | [1288-remove-covered-intervals](https://github.com/SoumyaSagarNayak/DSA/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/SoumyaSagarNayak/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/SoumyaSagarNayak/DSA/tree/master/1331-rank-transform-of-an-array) |
+| [1480-running-sum-of-1d-array](https://github.com/SoumyaSagarNayak/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/SoumyaSagarNayak/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SoumyaSagarNayak/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SoumyaSagarNayak/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
