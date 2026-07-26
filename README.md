@@ -43,6 +43,7 @@ I’m student of Computer Science, and I’ve started this repo to:
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/SoumyaSagarNayak/DSA/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/SoumyaSagarNayak/DSA/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/SoumyaSagarNayak/DSA/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/SoumyaSagarNayak/DSA/tree/master/0509-fibonacci-number) |
 | [1301-number-of-paths-with-max-score](https://github.com/SoumyaSagarNayak/DSA/tree/master/1301-number-of-paths-with-max-score) |
@@ -65,6 +66,7 @@ I’m student of Computer Science, and I’ve started this repo to:
 | ------- |
 | [0009-palindrome-number](https://github.com/SoumyaSagarNayak/DSA/tree/master/0009-palindrome-number) |
 | [0067-add-binary](https://github.com/SoumyaSagarNayak/DSA/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/SoumyaSagarNayak/DSA/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/SoumyaSagarNayak/DSA/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/SoumyaSagarNayak/DSA/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/SoumyaSagarNayak/DSA/tree/master/0509-fibonacci-number) |
@@ -261,6 +263,7 @@ I’m student of Computer Science, and I’ve started this repo to:
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/SoumyaSagarNayak/DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/SoumyaSagarNayak/DSA/tree/master/0509-fibonacci-number) |
 ## Simulation
 |  |
