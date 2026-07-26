@@ -95,6 +95,7 @@ I’m student of Computer Science, and I’ve started this repo to:
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SoumyaSagarNayak/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0525-contiguous-array](https://github.com/SoumyaSagarNayak/DSA/tree/master/0525-contiguous-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SoumyaSagarNayak/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0912-sort-an-array](https://github.com/SoumyaSagarNayak/DSA/tree/master/0912-sort-an-array) |
 | [1288-remove-covered-intervals](https://github.com/SoumyaSagarNayak/DSA/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/SoumyaSagarNayak/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/SoumyaSagarNayak/DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -117,6 +118,7 @@ I’m student of Computer Science, and I’ve started this repo to:
 | ------- |
 | [0053-maximum-subarray](https://github.com/SoumyaSagarNayak/DSA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/SoumyaSagarNayak/DSA/tree/master/0169-majority-element) |
+| [0912-sort-an-array](https://github.com/SoumyaSagarNayak/DSA/tree/master/0912-sort-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SoumyaSagarNayak/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/SoumyaSagarNayak/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
@@ -127,6 +129,7 @@ I’m student of Computer Science, and I’ve started this repo to:
 ## Merge Sort
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/SoumyaSagarNayak/DSA/tree/master/0912-sort-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SoumyaSagarNayak/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/SoumyaSagarNayak/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Enumeration
@@ -174,6 +177,7 @@ I’m student of Computer Science, and I’ve started this repo to:
 | [0268-missing-number](https://github.com/SoumyaSagarNayak/DSA/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/SoumyaSagarNayak/DSA/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SoumyaSagarNayak/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0912-sort-an-array](https://github.com/SoumyaSagarNayak/DSA/tree/master/0912-sort-an-array) |
 | [1288-remove-covered-intervals](https://github.com/SoumyaSagarNayak/DSA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/SoumyaSagarNayak/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SoumyaSagarNayak/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -200,6 +204,7 @@ I’m student of Computer Science, and I’ve started this repo to:
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/SoumyaSagarNayak/DSA/tree/master/0912-sort-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SoumyaSagarNayak/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/SoumyaSagarNayak/DSA/tree/master/3620-network-recovery-pathways) |
 ## Matrix
@@ -262,4 +267,16 @@ I’m student of Computer Science, and I’ve started this repo to:
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/SoumyaSagarNayak/DSA/tree/master/3312-sorted-gcd-pair-queries) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/SoumyaSagarNayak/DSA/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/SoumyaSagarNayak/DSA/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/SoumyaSagarNayak/DSA/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
