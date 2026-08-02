@@ -93,6 +93,7 @@ I’m student of Computer Science, and I’ve started this repo to:
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SoumyaSagarNayak/DSA/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/SoumyaSagarNayak/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SoumyaSagarNayak/DSA/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/SoumyaSagarNayak/DSA/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/SoumyaSagarNayak/DSA/tree/master/0056-merge-intervals) |
@@ -158,6 +159,7 @@ I’m student of Computer Science, and I’ve started this repo to:
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/SoumyaSagarNayak/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SoumyaSagarNayak/DSA/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/SoumyaSagarNayak/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/SoumyaSagarNayak/DSA/tree/master/0088-merge-sorted-array) |
