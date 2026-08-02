@@ -54,6 +54,7 @@ I’m student of Computer Science, and I’ve started this repo to:
 | [0070-climbing-stairs](https://github.com/SoumyaSagarNayak/DSA/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/SoumyaSagarNayak/DSA/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/SoumyaSagarNayak/DSA/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/SoumyaSagarNayak/DSA/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/SoumyaSagarNayak/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/SoumyaSagarNayak/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SoumyaSagarNayak/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -80,6 +81,7 @@ I’m student of Computer Science, and I’ve started this repo to:
 | [0268-missing-number](https://github.com/SoumyaSagarNayak/DSA/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/SoumyaSagarNayak/DSA/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SoumyaSagarNayak/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/SoumyaSagarNayak/DSA/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SoumyaSagarNayak/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SoumyaSagarNayak/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SoumyaSagarNayak/DSA/tree/master/3312-sorted-gcd-pair-queries) |
@@ -110,6 +112,7 @@ I’m student of Computer Science, and I’ve started this repo to:
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SoumyaSagarNayak/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0525-contiguous-array](https://github.com/SoumyaSagarNayak/DSA/tree/master/0525-contiguous-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SoumyaSagarNayak/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/SoumyaSagarNayak/DSA/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/SoumyaSagarNayak/DSA/tree/master/0912-sort-an-array) |
 | [1288-remove-covered-intervals](https://github.com/SoumyaSagarNayak/DSA/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/SoumyaSagarNayak/DSA/tree/master/1301-number-of-paths-with-max-score) |
@@ -316,4 +319,8 @@ I’m student of Computer Science, and I’ve started this repo to:
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/SoumyaSagarNayak/DSA/tree/master/0387-first-unique-character-in-a-string) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/SoumyaSagarNayak/DSA/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
