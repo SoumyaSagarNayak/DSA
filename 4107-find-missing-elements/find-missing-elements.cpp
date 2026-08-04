@@ -1,24 +1,22 @@
 class Solution {
 public:
-    vector<int> findMissingElements(vector<int>& nums) {
-       
-        
-        int n=nums.size();
-        int small=INT_MAX;
-        int large=INT_MIN;
-        for(int i=0;i<n;i++){
-            if(nums[i]>large)large=nums[i];
-            if(nums[i]<small)small=nums[i];
-        }
-        unordered_set<int>st;
-        for(int num:nums)st.insert(num);
+    vector<int> findMissingElements(vector<int>& nums) { 
+        vector<int> ans;
 
-        vector<int>ans;
-        for(int i=small;i<=large;i++){
-            if (st.find(i) == st.end()) {
-                ans.push_back(i);
-        } 
-    }
-    return ans;
+        if (nums.empty())return ans;
+        sort(nums.begin(), nums.end());
+
+        int n = nums.size();
+        int small = nums[0];
+        int large = nums[n - 1];
+
+     
+        for (int i = 0; i < n - 1; i++) {
+            if (nums[i + 1] - nums[i] > 1) {
+                for (int j = nums[i] + 1; j < nums[i + 1]; j++)
+                    ans.push_back(j);
+            }
+        }
+        return ans;
     }
 };
