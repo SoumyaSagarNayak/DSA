@@ -22,6 +22,7 @@ I’m student of Computer Science, and I’ve started this repo to:
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/SoumyaSagarNayak/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SoumyaSagarNayak/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/SoumyaSagarNayak/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3731-find-missing-elements](https://github.com/SoumyaSagarNayak/DSA/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SoumyaSagarNayak/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/SoumyaSagarNayak/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## String
@@ -130,6 +131,7 @@ I’m student of Computer Science, and I’ve started this repo to:
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SoumyaSagarNayak/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/SoumyaSagarNayak/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/SoumyaSagarNayak/DSA/tree/master/3620-network-recovery-pathways) |
+| [3731-find-missing-elements](https://github.com/SoumyaSagarNayak/DSA/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SoumyaSagarNayak/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/SoumyaSagarNayak/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SoumyaSagarNayak/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -211,6 +213,7 @@ I’m student of Computer Science, and I’ve started this repo to:
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SoumyaSagarNayak/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/SoumyaSagarNayak/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SoumyaSagarNayak/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3731-find-missing-elements](https://github.com/SoumyaSagarNayak/DSA/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SoumyaSagarNayak/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sliding Window
 |  |
