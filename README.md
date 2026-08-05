@@ -11,6 +11,7 @@ I’m student of Computer Science, and I’ve started this repo to:
 | ------- |
 | [0001-two-sum](https://github.com/SoumyaSagarNayak/DSA/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/SoumyaSagarNayak/DSA/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/SoumyaSagarNayak/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SoumyaSagarNayak/DSA/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/SoumyaSagarNayak/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SoumyaSagarNayak/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -30,6 +31,7 @@ I’m student of Computer Science, and I’ve started this repo to:
 | ------- |
 | [0067-add-binary](https://github.com/SoumyaSagarNayak/DSA/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/SoumyaSagarNayak/DSA/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/SoumyaSagarNayak/DSA/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/SoumyaSagarNayak/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/SoumyaSagarNayak/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SoumyaSagarNayak/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -205,6 +207,7 @@ I’m student of Computer Science, and I’ve started this repo to:
 | [0088-merge-sorted-array](https://github.com/SoumyaSagarNayak/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/SoumyaSagarNayak/DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SoumyaSagarNayak/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/SoumyaSagarNayak/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SoumyaSagarNayak/DSA/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/SoumyaSagarNayak/DSA/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SoumyaSagarNayak/DSA/tree/master/0628-maximum-product-of-three-numbers) |
