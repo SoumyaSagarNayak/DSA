@@ -3,13 +3,13 @@ class Solution:
 
         if not prices:
             return 0
-            
+
         minn=prices[0]
         maxx=0
         curr=0
-        for i in range(len(prices)):
-            minn=min(minn,prices[i])
-            curr=prices[i]-minn
+        for price in prices:
+            minn=min(minn,price)
+            curr=price-minn
             maxx=max(curr,maxx)
         return maxx
 
