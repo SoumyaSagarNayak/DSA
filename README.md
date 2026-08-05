@@ -328,4 +328,8 @@ I’m student of Computer Science, and I’ve started this repo to:
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/SoumyaSagarNayak/DSA/tree/master/0877-stone-game) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/SoumyaSagarNayak/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
