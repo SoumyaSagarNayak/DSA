@@ -53,6 +53,7 @@ I’m student of Computer Science, and I’ve started this repo to:
 | ------- |
 | [0053-maximum-subarray](https://github.com/SoumyaSagarNayak/DSA/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/SoumyaSagarNayak/DSA/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/SoumyaSagarNayak/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/SoumyaSagarNayak/DSA/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/SoumyaSagarNayak/DSA/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/SoumyaSagarNayak/DSA/tree/master/0877-stone-game) |
@@ -102,6 +103,7 @@ I’m student of Computer Science, and I’ve started this repo to:
 | [0056-merge-intervals](https://github.com/SoumyaSagarNayak/DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/SoumyaSagarNayak/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/SoumyaSagarNayak/DSA/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/SoumyaSagarNayak/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/SoumyaSagarNayak/DSA/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/SoumyaSagarNayak/DSA/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/SoumyaSagarNayak/DSA/tree/master/0204-count-primes) |
