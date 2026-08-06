@@ -80,6 +80,7 @@ I’m student of Computer Science, and I’ve started this repo to:
 | ------- |
 | [0009-palindrome-number](https://github.com/SoumyaSagarNayak/DSA/tree/master/0009-palindrome-number) |
 | [0067-add-binary](https://github.com/SoumyaSagarNayak/DSA/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/SoumyaSagarNayak/DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/SoumyaSagarNayak/DSA/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/SoumyaSagarNayak/DSA/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/SoumyaSagarNayak/DSA/tree/master/0268-missing-number) |
@@ -182,6 +183,7 @@ I’m student of Computer Science, and I’ve started this repo to:
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/SoumyaSagarNayak/DSA/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/SoumyaSagarNayak/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/SoumyaSagarNayak/DSA/tree/master/0287-find-the-duplicate-number) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SoumyaSagarNayak/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -337,4 +339,8 @@ I’m student of Computer Science, and I’ve started this repo to:
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SoumyaSagarNayak/DSA/tree/master/0169-majority-element) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/SoumyaSagarNayak/DSA/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
