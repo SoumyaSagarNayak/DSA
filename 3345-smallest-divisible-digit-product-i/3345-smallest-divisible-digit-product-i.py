@@ -1,0 +1,13 @@
+class Solution:
+    def smallestNumber(self, n: int, t: int) -> int:
+        curr=n
+        while True:
+            product=1
+            temp=curr
+            while temp>0:
+                digit=temp%10
+                product=product*digit
+                temp//=10
+            if product%t==0:
+                return curr
+            curr +=1
