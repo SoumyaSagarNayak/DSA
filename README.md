@@ -63,6 +63,7 @@ I’m student of Computer Science, and I’ve started this repo to:
 | [0509-fibonacci-number](https://github.com/SoumyaSagarNayak/DSA/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/SoumyaSagarNayak/DSA/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/SoumyaSagarNayak/DSA/tree/master/1301-number-of-paths-with-max-score) |
+| [1510-stone-game-iv](https://github.com/SoumyaSagarNayak/DSA/tree/master/1510-stone-game-iv) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/SoumyaSagarNayak/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SoumyaSagarNayak/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3620-network-recovery-pathways](https://github.com/SoumyaSagarNayak/DSA/tree/master/3620-network-recovery-pathways) |
@@ -90,6 +91,7 @@ I’m student of Computer Science, and I’ve started this repo to:
 | [0509-fibonacci-number](https://github.com/SoumyaSagarNayak/DSA/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SoumyaSagarNayak/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/SoumyaSagarNayak/DSA/tree/master/0877-stone-game) |
+| [1510-stone-game-iv](https://github.com/SoumyaSagarNayak/DSA/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SoumyaSagarNayak/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SoumyaSagarNayak/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SoumyaSagarNayak/DSA/tree/master/3312-sorted-gcd-pair-queries) |
@@ -344,6 +346,7 @@ I’m student of Computer Science, and I’ve started this repo to:
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/SoumyaSagarNayak/DSA/tree/master/0877-stone-game) |
+| [1510-stone-game-iv](https://github.com/SoumyaSagarNayak/DSA/tree/master/1510-stone-game-iv) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -356,4 +359,20 @@ I’m student of Computer Science, and I’ve started this repo to:
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/SoumyaSagarNayak/DSA/tree/master/0014-longest-common-prefix) |
+## Minimax
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/SoumyaSagarNayak/DSA/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/SoumyaSagarNayak/DSA/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/SoumyaSagarNayak/DSA/tree/master/1510-stone-game-iv) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/SoumyaSagarNayak/DSA/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
