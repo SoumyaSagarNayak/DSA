@@ -8,7 +8,7 @@ class Solution:
                 break
         while seqsum in nums:
             seqsum+=1
-        else:
-            return seqsum
+        
+        return seqsum
 
         
