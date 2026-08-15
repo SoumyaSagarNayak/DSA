@@ -6,9 +6,10 @@ class Solution:
                 seqsum+=nums[i]
             else:
                 break
+        nums_set=set(nums)#done as normally its in list and list has o(n) lookup but set has o(1) lookup
         while seqsum in nums:
             seqsum+=1
-        else:
-            return seqsum
+        
+        return seqsum
 
         
