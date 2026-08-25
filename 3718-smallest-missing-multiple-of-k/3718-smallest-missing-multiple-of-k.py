@@ -1,7 +1,8 @@
 class Solution:
     def missingMultiple(self, nums: List[int], k: int) -> int:
-        multiple=k
-        while multiple in nums:
-            multiple+=k
-        return multiple
+        maxx=nums[0]
+        for i in nums:
+            maxx=max(maxx,i)
+        mull=maxx%k
+        return k*(mull+1)
         
