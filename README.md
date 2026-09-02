@@ -14,6 +14,7 @@ I’m student of Computer Science, and I’ve started this repo to:
 | [0217-contains-duplicate](https://github.com/SoumyaSagarNayak/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SoumyaSagarNayak/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SoumyaSagarNayak/DSA/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/SoumyaSagarNayak/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/SoumyaSagarNayak/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SoumyaSagarNayak/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0525-contiguous-array](https://github.com/SoumyaSagarNayak/DSA/tree/master/0525-contiguous-array) |
@@ -50,6 +51,7 @@ I’m student of Computer Science, and I’ve started this repo to:
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SoumyaSagarNayak/DSA/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/SoumyaSagarNayak/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/SoumyaSagarNayak/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/SoumyaSagarNayak/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SoumyaSagarNayak/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -128,6 +130,7 @@ I’m student of Computer Science, and I’ve started this repo to:
 | [0268-missing-number](https://github.com/SoumyaSagarNayak/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/SoumyaSagarNayak/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/SoumyaSagarNayak/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0347-top-k-frequent-elements](https://github.com/SoumyaSagarNayak/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/SoumyaSagarNayak/DSA/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SoumyaSagarNayak/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0525-contiguous-array](https://github.com/SoumyaSagarNayak/DSA/tree/master/0525-contiguous-array) |
@@ -164,6 +167,7 @@ I’m student of Computer Science, and I’ve started this repo to:
 | [0053-maximum-subarray](https://github.com/SoumyaSagarNayak/DSA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/SoumyaSagarNayak/DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SoumyaSagarNayak/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/SoumyaSagarNayak/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/SoumyaSagarNayak/DSA/tree/master/0912-sort-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SoumyaSagarNayak/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/SoumyaSagarNayak/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -231,6 +235,7 @@ I’m student of Computer Science, and I’ve started this repo to:
 | [0217-contains-duplicate](https://github.com/SoumyaSagarNayak/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SoumyaSagarNayak/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SoumyaSagarNayak/DSA/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/SoumyaSagarNayak/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/SoumyaSagarNayak/DSA/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SoumyaSagarNayak/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/SoumyaSagarNayak/DSA/tree/master/0912-sort-an-array) |
@@ -266,6 +271,7 @@ I’m student of Computer Science, and I’ve started this repo to:
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/SoumyaSagarNayak/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/SoumyaSagarNayak/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/SoumyaSagarNayak/DSA/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SoumyaSagarNayak/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SoumyaSagarNayak/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -334,6 +340,7 @@ I’m student of Computer Science, and I’ve started this repo to:
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/SoumyaSagarNayak/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/SoumyaSagarNayak/DSA/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
@@ -348,6 +355,7 @@ I’m student of Computer Science, and I’ve started this repo to:
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/SoumyaSagarNayak/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/SoumyaSagarNayak/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Queue
 |  |
 | ------- |
