@@ -12,9 +12,6 @@ class Solution:
         for i in range(len(nums)):
             
             maxx=max(maxx,nums[i])
-        
-            # for j in range(i,len(nums)):
-            #     minn=min(minn,nums[j])
             diff=maxx-mapp[i]
             
             if diff<=k:
