@@ -45,6 +45,7 @@ I’m student of Computer Science, and I’ve started this repo to:
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SoumyaSagarNayak/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SoumyaSagarNayak/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3210-find-the-encrypted-string](https://github.com/SoumyaSagarNayak/DSA/tree/master/3210-find-the-encrypted-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/SoumyaSagarNayak/DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/SoumyaSagarNayak/DSA/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/SoumyaSagarNayak/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Counting
@@ -341,6 +342,7 @@ I’m student of Computer Science, and I’ve started this repo to:
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/SoumyaSagarNayak/DSA/tree/master/0067-add-binary) |
+| [3498-reverse-degree-of-a-string](https://github.com/SoumyaSagarNayak/DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SoumyaSagarNayak/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
 |  |
