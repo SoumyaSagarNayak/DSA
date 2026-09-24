@@ -106,6 +106,7 @@ I’m student of Computer Science, and I’ve started this repo to:
 | [3312-sorted-gcd-pair-queries](https://github.com/SoumyaSagarNayak/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SoumyaSagarNayak/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/SoumyaSagarNayak/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SoumyaSagarNayak/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/SoumyaSagarNayak/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/SoumyaSagarNayak/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/SoumyaSagarNayak/DSA/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -161,6 +162,7 @@ I’m student of Computer Science, and I’ve started this repo to:
 | [3312-sorted-gcd-pair-queries](https://github.com/SoumyaSagarNayak/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SoumyaSagarNayak/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/SoumyaSagarNayak/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SoumyaSagarNayak/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3620-network-recovery-pathways](https://github.com/SoumyaSagarNayak/DSA/tree/master/3620-network-recovery-pathways) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/SoumyaSagarNayak/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/SoumyaSagarNayak/DSA/tree/master/3731-find-missing-elements) |
